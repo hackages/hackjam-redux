@@ -1,0 +1,10 @@
+.header {
+    height: 200px;
+    background-color: #80cbc4;
+    color: white;
+    font-family: "Fira Code";
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

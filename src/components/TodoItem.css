@@ -1,0 +1,27 @@
+.completed {
+    text-decoration: line-through;
+}
+
+li {
+    width: 300px;
+    background-color: #80cbc4;
+    height: 50px;
+    margin: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 5px;
+    font-size: 1.2rem;
+}
+
+.delete {
+    height: 100%;
+    width: 30px;
+    background-color: tomato;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
